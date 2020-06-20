@@ -1,0 +1,8 @@
+[0:v]
+    zoompan=
+        z='zoom + (.5/90)':
+        fps=30:
+        d=90:
+        x='iw/2-(iw/zoom/2)':
+        y='ih/2-(ih/zoom/2)'
+
